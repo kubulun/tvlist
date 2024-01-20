@@ -240,9 +240,13 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 BBC News,http://livetv.ktv.zone/60/play.m3u8
 CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-Fox Sports,https://lnc-fox-sports2.tubi.video/index.m3u8
-NBA TV,http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&stream=749756
-TVB Finance and Sport Channel,https://cdn.hklive.tv/xxxx/85/index.m3u8
+中天新聞台,https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+民視新聞台,https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+台视新聞台,https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+TVBS新聞台,https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+BBC News Asia Pacific,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia.m3u8
+Rick and Morty,https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 
 卫视,#genre#
 
