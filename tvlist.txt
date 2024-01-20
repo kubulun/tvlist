@@ -240,6 +240,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 BBC News,http://livetv.ktv.zone/60/play.m3u8
 CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 中天新聞台,https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 民視新聞台,https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 台视新聞台,https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
@@ -247,6 +248,11 @@ TVBS新聞台,https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 BBC News Asia Pacific,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 Bloomberg TV Asia,https://bloomberg.com/media-manifest/streams/asia.m3u8
 Rick and Morty,https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+BBC Earth,https://lnc-bbc-earth.tubi.video/playlist.m3u8
+NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+CCTV-4 美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+
 
 卫视,#genre#
 
