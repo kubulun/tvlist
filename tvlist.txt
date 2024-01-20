@@ -492,6 +492,8 @@ IPTV5+,http://192.168.2.1:4022/udp/239.81.0.133:4056
 海南卫视,http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+
+地方,#genre#
 深圳电视台都市频道,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 珠海1套新闻综合频道,https://zhtv-tsl.cutv.com/zZGtroL/11qrzG0.m3u8
 梅州一套综合频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
