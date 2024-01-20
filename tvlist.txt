@@ -314,6 +314,96 @@ TVBS News (TVBS新聞台),https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BX
 立法院IVOD直播財政委員會,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 立法院IVOD直播院會,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
 
+BBC,#genre#
+BBC Alba,https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
+BBC Four HD,https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+BBC News (European feed) (1080p),http://livetv.ktv.zone/60/play.m3u8
+BBC News HD,https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+BBC One East,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
+BBC One East Midlands,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
+BBC One East Yorkshire,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
+BBC One HD,https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
+BBC One London,https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
+BBC One North East,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
+BBC One North West,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd
+BBC One Northern Ireland HD,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
+BBC One Scotland HD,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd
+BBC One South,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd
+BBC One South East,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
+BBC One South West,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd
+BBC One Wales,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
+BBC One West,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd
+BBC One West Midlands,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
+BBC One Yorks,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
+BBC Parliament,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
+BBC Persian (720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+BBC Red Button 1,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_01/iptv_hd_abr_v1.mpd
+BBC Red Button 2,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_02/iptv_hd_abr_v1.mpd
+BBC Red Button 3,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_03/iptv_hd_abr_v1.mpd
+BBC Red Button 4,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_04/iptv_hd_abr_v1.mpd
+BBC Red Button 5,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_05/iptv_hd_abr_v1.mpd
+BBC Red Button 6,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_06/iptv_hd_abr_v1.mpd
+BBC Red Button 7,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_07/iptv_hd_abr_v1.mpd
+BBC Red Button 8,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_08/iptv_hd_abr_v1.mpd
+BBC Red Button 9,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_09/iptv_hd_abr_v1.mpd
+BBC Red Button 10,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_10/iptv_hd_abr_v1.mpd
+BBC Red Button 11,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_11/iptv_hd_abr_v1.mpd
+BBC Red Button 12,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_12/iptv_hd_abr_v1.mpd
+BBC Red Button 13,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_13/iptv_hd_abr_v1.mpd
+BBC Red Button 14,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_14/iptv_hd_abr_v1.mpd
+BBC Red Button 15,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_15/iptv_hd_abr_v1.mpd
+BBC Red Button 16,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_16/iptv_hd_abr_v1.mpd
+BBC Red Button 17,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_17/iptv_hd_abr_v1.mpd
+BBC Red Button 18,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_18/iptv_hd_abr_v1.mpd
+BBC Red Button 19,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_19/iptv_hd_abr_v1.mpd
+BBC Red Button 20,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_20/iptv_hd_abr_v1.mpd
+BBC Red Button 21,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_21/iptv_hd_abr_v1.mpd
+BBC Red Button 22,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_22/iptv_hd_abr_v1.mpd
+BBC Red Button 23,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_23/iptv_hd_abr_v1.mpd
+BBC Red Button 24,https://ve-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_24/iptv_hd_abr_v1.mpd
+BBC Red Button One,https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+BBC Scotland HD,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
+BBC Three HD,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+BBC Two HD,https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+BBC Two Northern Ireland HD,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
+BBC Two Wales,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
+BBC UHD 1,https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+BBC UHD 2,https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
+BBC UHD 3,https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
+BBC UHD 4,https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_04/iptv_uhd_v1.mpd
+BBC UHD 5,https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
+
+美国,#genre#
+
+Adult Swim Aqua Teen Hunger Force,https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
+Adult Swim Black Jesus,https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_de.m3u8
+Adult Swim Channel 5,https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_de.m3u8
+Adult Swim Daily Animated,https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+Adult Swim Daily Live Action,https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+Adult Swim Dream Corp LLC,https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
+Adult Swim East,https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+Adult Swim Home Movies,https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+Adult Swim Infomercials,https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
+Adult Swim Last Stream On The Left,https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
+Adult Swim Metalocalypse,https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
+Adult Swim Mr. Pickles,https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+Adult Swim Off The Air,https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+Adult Swim Primal,https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+Adult Swim Rick and Morty,https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+Adult Swim Robot Chicken,https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
+Adult Swim Samurai Jack,https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
+Adult Swim Squidbillies,https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+Adult Swim Superjail!,https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
+Adult Swim The Eric Andre Show,https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
+Adult Swim The Venture Bros.,https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_de.m3u8
+Adult Swim Tim and Eric,https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+Adult Swim West,https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+Adult Swim Williams Stream,https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+Adult Swim Your Pretty Face Is Going To Hell,https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
+CNN Chile,https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+CNN en Español,http://181.78.24.67:8010/play/a03p/index.m3u8
+CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
 卫视,#genre#
