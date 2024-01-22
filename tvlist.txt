@@ -421,12 +421,7 @@ CCTV-4 美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u
 荆门公共频道,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门教育频道,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 孝感公共频道,http://live.yingxi.tv/channel1/sd/live.m3u8
-三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
-三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
-三明公共,https://stream.smntv.cn/smtv2/playlist.m3u8
-三明新闻综合,https://stream.smntv.cn/smtv1/playlist.m3u8
-龙岩新闻综合频道,http://stream.lytv.net.cn/2/sd/live.m3u8
-龙岩公共频道,http://live.lytv.net.cn/ggpd/sd/live.m3u8
+
 
 万州三峡移民,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 万州影视,http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
