@@ -212,24 +212,6 @@ CCTV12,http://v.1ack.com/yw.php?id=cctv12
 CCTV13,http://v.1ack.com/yw.php?id=cctv13
 CCTV14,http://v.1ack.com/yw.php?id=cctv14
 
-CCTV5+,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
-CCTV1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV6,http://1.85.0.62:808/hls/6/index.m3u8
-CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -479,7 +461,6 @@ CCTV-4 美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u
 先锋乒羽频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTEzMmVlMDBmODQyNjljNzljOWZhNWI4N2UzYmQ5NmZmJmVzPTE3MDU3NDA3NzYmdXVpZD1iNWZmMWMxYWZiMjU2YTgyNjQxNWQ2MmM1YzEwODI4NS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/XFPYMPP360.m3u8
 湖南卫视快乐垂钓频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTZkYzc4YzRmZTQ4YzRjZGY0NzAwZDYwN2U5NDliMDliJmVzPTE3MDU3NDM0NDImdXVpZD1jMzVjNTU5ZWMwOGMyNjhhM2ExNmFiMzllYWNmMzFjZS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/KLCDMPP360.m3u8
 湖南快乐购,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTIwMjE4Njc2MjJlNWY1M2NhNGRjZDExNDI5ZjgyYmI4JmVzPTE3MDU3NDQxMDEmdXVpZD0xZTFjYWQwNzQwOWZjNzhmNTIxMDZmOTY4YjExM2FkNS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/KLGMPP360.m3u8
-湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
 茶频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTU1NjhlZGRkYTJhZWZkZTliNDRlNTliMzg4ZWY5MWVlJmVzPTE3MDU3NDA0NDkmdXVpZD1hYmEyOWQ5NDM5ZDQ4NzU3NGVlYWFiN2M0MDc4MjA0Ny02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CPDMPP360.m3u8
 长沙新闻频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPWZlZjRjNzUxMDU5YzkxZTY5Y2UyM2M1MjJjOGQyNjJiJmVzPTE3MDU3MzQ2MjgmdXVpZD00MTkyNzU5ZDFmNzI4ZGRhZDI4ZDE0ZGFmYTY2Y2ViMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CSXWMPP360.m3u8
 长沙政法频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTE0OWIwMWZlNjFiMGE4OTU1YmU0MmNkOTlkZmMzNmM2JmVzPTE3MDU3MjU2NTgmdXVpZD0xOGU1OGUzMjI3YTc0OTY4MzcxM2JkYjQ5NGEzNGM4MC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/CSZFMPP360.m3u8
