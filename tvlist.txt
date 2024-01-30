@@ -208,27 +208,17 @@ CCTV-4 美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u
 
 湖北,#genre#
 
-武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
-武进生活,https://live.wjyanghu.com/live/CH2.m3u8
-
-十堰新闻综合频道,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-十堰经济旅游频道,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-荆门新闻频道,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门公共频道,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
-荆门教育频道,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-孝感公共频道,http://live.yingxi.tv/channel1/sd/live.m3u8
-
-
-万州三峡移民,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
-万州影视,http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
-万州科教,http://123.146.162.24:8013/tslslive/URetCnP/hls/live_sd.m3u8
-万州综合,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
-
-仙桃新聞綜合 (576p),http://221.233.242.239:280/live/71/playlist.m3u8
-仙桃生活文體 (576p),http://221.233.242.239:280/live/72/playlist.m3u8
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
+崇阳综合,http://61.184.176.248:10500/live/live.m3u8
+当阳,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1704038399-0-0-d94526965480b96a43608d6ddad3c9a8
+红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
+谷城,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1704038399-0-0-9b04df5d845d5e76347ce466fdcd2032
+鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87
+鄂州新闻,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1704038399-0-0-f97391c85e7bf53b885ed7d63cf722c0
+鹤峰综合,http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1704038399-0-0-73faaff5056f4c2f3eaa37886ba5a32d
+十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 
 
 
