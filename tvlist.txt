@@ -625,6 +625,16 @@ BRTV纪实科教,http://113.123.196.234:9999/udp/239.21.1.172:5002
 
 湖北,#genre#
 
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
+湖北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8
+湖北卫视,http://182.150.31.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://182.150.31.58:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://v.1ack.com/aikanmigu.php?id=hubws
+湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
+湖北卫视,http://111.59.63.32:9901/tsfile/live/1044_1.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
