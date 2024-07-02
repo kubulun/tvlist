@@ -861,9 +861,9 @@ TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 儿童频道,#genre#
 
-上海哈哈炫动,http://44966c.netsite.cc/proxy/1655047572/1655047572.m3u8
-上海哈哈炫动,http://bb66b6.netsite.cc/proxy/1655047572/1655047572.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+哈哈炫动,http://44966c.netsite.cc/proxy/1655047572/1655047572.m3u8
+哈哈炫动,http://bb66b6.netsite.cc/proxy/1655047572/1655047572.m3u8
+
 
 优漫卡通,http://113.218.229.25:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://119.39.97.2:9002/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -888,7 +888,7 @@ TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 金鹰卡通,http://113.218.229.25:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 炫动卡通,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
 
-蜡笔小新,https://live.metshop.top/huya/22295876
+
 金鹰卡通,http://106.46.114.199:8011/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰卡通,http://113.218.229.25:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://223.159.10.126:8099/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
