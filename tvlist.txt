@@ -257,12 +257,17 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
+五星体育,http://58.41.27.144:18888/udp/239.45.3.210:5140
+劲爆体育,http://120.77.28.4:8648/mgu.php?id=jbty
 快乐垂钓,http://113.100.72.213:8899/udp/239.77.0.145:5146
 央视台球,http://113.100.72.213:8899/udp/239.253.43.21:5146
 风云足球,http://113.100.72.213:8899/udp/239.253.43.20:5146
 风云足球,http://113.100.72.213:8899/udp/239.253.43.14:5146
 广东体育,http://113.100.72.213:8899/udp/239.77.0.168:5146
 广东体育,http://113.100.72.213:8899/udp/239.77.0.112:5146
+纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
+魅力足球,http://120.77.28.4:8648/mgu.php?id=mlzq
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 
 港台,#genre#
 
@@ -510,6 +515,16 @@ RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 
 杂项,#genre#
 
+优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+哈哈炫动,http://113.100.72.213:8899/udp/239.77.0.81:5146
+哈哈炫动,http://113.100.72.213:8899/udp/239.77.1.139:5146
+嘉佳卡通,http://113.100.72.213:8899/udp/239.77.0.179:5146
+金鹰卡通,http://113.100.72.213:8899/udp/239.77.0.164:5146
+金鹰卡通,http://113.100.72.213:8899/udp/239.77.0.80:5146
+金鹰卡通,http://113.100.72.213:8899/udp/239.77.1.52:5146
+
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
@@ -541,12 +556,3 @@ RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 新奇世界,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
 
-优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-哈哈炫动,http://113.100.72.213:8899/udp/239.77.0.81:5146
-哈哈炫动,http://113.100.72.213:8899/udp/239.77.1.139:5146
-嘉佳卡通,http://113.100.72.213:8899/udp/239.77.0.179:5146
-金鹰卡通,http://113.100.72.213:8899/udp/239.77.0.164:5146
-金鹰卡通,http://113.100.72.213:8899/udp/239.77.0.80:5146
-金鹰卡通,http://113.100.72.213:8899/udp/239.77.1.52:5146
