@@ -385,6 +385,22 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
 凤凰资讯,http://tv.sd.cn/sichuan?id=239.93.1.4:2191
 
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+民视,https://test.zapi.us.kg/?id=ftv
+民视,http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
+民视,p3p://108.181.20.159:32386/6001ba8400051d89f5b151a63fa96419
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
+民视,rtmp://f13h.mine.nu/sat/tv051
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,p3p://108.181.20.159:32386/602f1f4a000aa86fa700c49817387f81
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://ali.hlspull.yximgs.com/live/msxwtbbbst885231889gdkagdakdbsavfcjdsfjs.flv
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivecnbvjfhdjujjvcbnjftujscxjfjejyhjjvjfmsxw.flv
+民视台湾台,https://test.zapi.us.kg/?id=ftv-tw
+民视第一台,https://test.zapi.us.kg/?id=ftv-one
 
 翡翠台,http://124.244.149.194:65530/bysid/1
 翡翠台,http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=188
@@ -447,22 +463,7 @@ TW台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 番薯台,p3p://108.181.20.159:32386/64c27b030001a1b728e6741548c32c95
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
-民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-民视,https://test.zapi.us.kg/?id=ftv
-民视,http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
-民视,p3p://108.181.20.159:32386/6001ba8400051d89f5b151a63fa96419
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-民视,rtmp://f13h.mine.nu/sat/tv051
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻,p3p://108.181.20.159:32386/602f1f4a000aa86fa700c49817387f81
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://ali.hlspull.yximgs.com/live/msxwtbbbst885231889gdkagdakdbsavfcjdsfjs.flv
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民视新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivecnbvjfhdjujjvcbnjftujscxjfjejyhjjvjfmsxw.flv
-民视台湾台,https://test.zapi.us.kg/?id=ftv-tw
-民视第一台,https://test.zapi.us.kg/?id=ftv-one
+
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
