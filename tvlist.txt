@@ -258,8 +258,13 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
 五星体育,http://58.41.27.144:18888/udp/239.45.3.210:5140
+
 劲爆体育,http://117.161.12.124/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,http://120.77.28.4:8648/mgu.php?id=jbty
+劲爆体育,p3p://108.181.20.159:30672/63ec4ef2000a1b0be44e290412a90692
+劲爆体育,http://117.161.12.124/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://tvbox6.icu/tv/migu.php?id=jbty
+
 快乐垂钓,http://www.furymax.top:85/rtp/239.69.1.142:10488
 快乐垂钓,http://113.100.72.213:8899/udp/239.77.0.145:5146
 央视台球,http://27.18.105.43:8118/udp/239.69.1.98:10224
@@ -277,9 +282,6 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
 港台,#genre#
 
-凤凰中文,http://183.135.225.96:4022/udp/233.50.200.191:5140
-凤凰中文,http://dms.yryyj.site:8188/udp/239.76.253.135:9000
-凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://122.246.150.139:9999/udp/233.50.200.42:5140
 凤凰中文,http://113.218.137.235:9999/udp/239.76.246.134:1234
 凤凰中文,http://171.213.133.86:4022/udp/239.93.1.9:2192
