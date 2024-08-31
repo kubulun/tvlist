@@ -367,9 +367,15 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞,http://ali.hlspull.yximgs.com/live/huanqiuhklivecnbvjfhdjujjvcbnjftujscxjfjejyhjjvjfmsxw.flv
 
-民视,p3p://108.181.20.159:32386/6001ba8400051d89f5b151a63fa96419
 民视,http://37.27.111.214:8080/live/6/hls.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
+
+东森新闻,p3p://108.181.20.159:37259/61468afa0005b339ea7014d376a616f3
+东森新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
+东森新闻,p3p://108.181.20.159:33962/61468afa0005b339ea7014d376a616f3
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+东森新闻台,p3p://108.181.32.169:45270/64251f9700046520ea5ce8b85b6c11da
+东森新闻台,p3p://108.181.32.169:51690/64251f9700046520ea5ce8b85b6c11da
 
 翡翠台,http://124.244.149.194:65530/bysid/1
 翡翠台,http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=188
