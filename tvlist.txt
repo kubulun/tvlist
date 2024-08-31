@@ -367,15 +367,17 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞,http://ali.hlspull.yximgs.com/live/huanqiuhklivecnbvjfhdjujjvcbnjftujscxjfjejyhjjvjfmsxw.flv
 
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-民视,rtmp://f13h.mine.nu/sat/tv051
-
-东森新闻,p3p://108.181.20.159:37259/61468afa0005b339ea7014d376a616f3
-东森新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
-东森新闻,p3p://108.181.20.159:33962/61468afa0005b339ea7014d376a616f3
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-东森新闻台,p3p://108.181.32.169:45270/64251f9700046520ea5ce8b85b6c11da
-东森新闻台,p3p://108.181.32.169:51690/64251f9700046520ea5ce8b85b6c11da
+东森新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
+
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+台視新聞,http://ali.hlspull.yximgs.com/live/TTaishi88822378889gdkagdakdbsavfcjdsfjs.flv
+台視新聞,https://test.zapi.us.kg/?id=ttv-news
+台視新聞,p3p://108.181.20.159:32386/62caf1dc000525b3cbb4de6e3c0e2af8
+
 
 翡翠台,http://124.244.149.194:65530/bysid/1
 翡翠台,http://8.137.59.151:3009/dianshimi/fenghuang666.php?id=188
@@ -421,13 +423,7 @@ TW台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-台視新聞,http://ali.hlspull.yximgs.com/live/TTaishi88822378889gdkagdakdbsavfcjdsfjs.flv
-台視新聞,https://test.zapi.us.kg/?id=ttv-news
-台視新聞,p3p://108.181.20.159:32386/62caf1dc000525b3cbb4de6e3c0e2af8
+
 
 中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
 中视经典,p3p://108.181.20.159:32386/621db24e000d4a9726fcacfd58c400a2
@@ -447,9 +443,6 @@ TW台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,p3p://108.181.20.159:32386/655bd22c000147307fdff68936807320
 
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-东森新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
-
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 
@@ -460,6 +453,9 @@ TW台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
+民视,rtmp://f13h.mine.nu/sat/tv051
 
 杂项,#genre#
 
