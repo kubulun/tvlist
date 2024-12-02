@@ -249,12 +249,12 @@ CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://146.56.153.245:20121/bysid/258
 凤凰资讯,http://146.56.153.245:20121/bysid/257
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8$LR•IPV4『线路9』
+凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8$LR•IPV4『线路2』
+凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8$LR•IPV4『线路2』
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8$LR•IPV4『线路8』
 
 东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 
 闽镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
@@ -367,3 +367,12 @@ CHC动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/in
 金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 
+国际,#genre#
+CNN_News18,https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+BBC News,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd
+BBC News North America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC News Arabic,https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
+BBC News Asia Pacific,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
