@@ -406,6 +406,10 @@ TRA体育,https://litv.zapi.us.kg/?id=4gtv-4gtv077
 博斯无限1,https://litv.zapi.us.kg/?id=litv-longturn10
 博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
 智林体育,https://litv.zapi.us.kg/?id=4gtv-4gtv101
+CBS Sports HQ,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+Champion TV,https://canal.mediaserver.com.co/live/ChampionTv.m3u8
+NFL Network,http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 NewTV,#genre#
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -469,8 +473,10 @@ CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_
 CNN_News18,https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+NBC News Now,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC News,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f
 BBC,https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 BBC,http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
@@ -482,7 +488,31 @@ NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡国际,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 KBS,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-
+BBC Earth,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555
+BBC Earth,https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+BBC Food,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
+Bloomberg TV+,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+C-SPAN,http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+CBS News 24/7,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
+CNBC,http://fl2.moveonjoy.com/CNBC/index.m3u8
+Comedy Central Animation,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280716-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0c5875b8-f67e-402d-97b3-0cf608608acb
+MLB,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
+MLB Network,http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+MTV,https://streamer1.nexgen.bz/MTV/index.m3u8
+NBC Sports,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
+NFL Channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+NFL Network,http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+Nickelodeon East,http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+Nickelodeon Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
+Outdoor Channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+Outside TV Plus,https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+PBS Nature,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4
+Real Wild,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+Showtime East,http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+Showtime Extreme East,http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+Showtime Next East,http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+Showtime Women East,http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+Top Gear,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636adc255bcf470007d6e0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53184ebc-5f69-44c0-bf0c-94707d648913
 
 直播中国,#genre#
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
