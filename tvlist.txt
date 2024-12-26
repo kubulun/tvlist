@@ -72,31 +72,7 @@ CCTV13,http://42.48.50.232:9002/tsfile/live/0013_1.m3u8
 CCTV14,http://42.48.50.232:9002/tsfile/live/0014_1.m3u8
 CCTV15,http://42.48.50.232:9002/tsfile/live/0015_1.m3u8
 
-CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
-CCTV风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8
-CCTV风云足球,http://58.48.5.186:1111/tsfile/live/0142_2.m3u8
-CCTV风云足球,http://nas.hssvm.com:8888/udp/225.1.1.181:5002
-CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-CCTV世界地理,http://60.10.106.114:555/udp/239.253.92.131:6113,1.02
-CCTV兵器科技,http://60.10.106.114:555/udp/239.253.93.47:6435,1.02
-CCTV怀旧剧场,http://60.10.106.114:555/udp/239.253.93.252:6430,1.02
-CCTV第一剧场,http://60.10.106.114:555/udp/239.253.93.138:6428,1.02
-CCTV风云剧场,http://60.10.106.114:555/udp/239.253.93.251:6429,1.02
-
-CCTV世界地理,http://60.2.190.206:4000/udp/239.253.92.131:6113,0.79
-CCTV兵器科技,http://60.2.190.206:4000/udp/239.253.93.47:6435,0.79
-CCTV怀旧剧场,http://60.2.190.206:4000/udp/239.253.93.252:6430,0.79
-CCTV第一剧场,http://60.2.190.206:4000/udp/239.253.93.138:6428,0.79
-CCTV风云剧场,http://60.2.190.206:4000/udp/239.253.93.251:6429,0.79
-
-CCTV世界地理,http://120.6.209.42:8866/udp/239.253.92.131:6113,0.57
-CCTV兵器科技,http://120.6.209.42:8866/udp/239.253.93.47:6435,0.57
-CCTV怀旧剧场,http://120.6.209.42:8866/udp/239.253.93.252:6430,0.57
-CCTV第一剧场,http://120.6.209.42:8866/udp/239.253.93.138:6428,0.57
-CCTV风云剧场,http://120.6.209.42:8866/udp/239.253.93.251:6429,0.57
 
 
 卫视,#genre#
@@ -415,7 +391,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 天元围棋,http://43.138.11.122/cq/yh.php?id=G_TIANYUANWQ
 精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
@@ -423,7 +399,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 五星体育,http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
 五星体育,http://223.166.234.114:7777/tsfile/live/1030_1.m3u8
 五星体育,http://223.166.234.149:7777/tsfile/live/1030_1.m3u8
@@ -452,9 +428,7 @@ TRA体育,https://litv.zapi.us.kg/?id=4gtv-4gtv077
 
 
 NewTV,#genre#
-CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
@@ -496,11 +470,42 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
+
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 CGTN西班牙语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
 CGTN阿拉伯语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
 CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
+
+CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8
+CCTV风云足球,http://58.48.5.186:1111/tsfile/live/0142_2.m3u8
+CCTV风云足球,http://nas.hssvm.com:8888/udp/225.1.1.181:5002
+CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+CCTV世界地理,http://60.10.106.114:555/udp/239.253.92.131:6113,1.02
+CCTV兵器科技,http://60.10.106.114:555/udp/239.253.93.47:6435,1.02
+CCTV怀旧剧场,http://60.10.106.114:555/udp/239.253.93.252:6430,1.02
+CCTV第一剧场,http://60.10.106.114:555/udp/239.253.93.138:6428,1.02
+CCTV风云剧场,http://60.10.106.114:555/udp/239.253.93.251:6429,1.02
+
+CCTV世界地理,http://60.2.190.206:4000/udp/239.253.92.131:6113,0.79
+CCTV兵器科技,http://60.2.190.206:4000/udp/239.253.93.47:6435,0.79
+CCTV怀旧剧场,http://60.2.190.206:4000/udp/239.253.93.252:6430,0.79
+CCTV第一剧场,http://60.2.190.206:4000/udp/239.253.93.138:6428,0.79
+CCTV风云剧场,http://60.2.190.206:4000/udp/239.253.93.251:6429,0.79
+
+CCTV世界地理,http://120.6.209.42:8866/udp/239.253.92.131:6113,0.57
+CCTV兵器科技,http://120.6.209.42:8866/udp/239.253.93.47:6435,0.57
+CCTV怀旧剧场,http://120.6.209.42:8866/udp/239.253.93.252:6430,0.57
+CCTV第一剧场,http://120.6.209.42:8866/udp/239.253.93.138:6428,0.57
+CCTV风云剧场,http://120.6.209.42:8866/udp/239.253.93.251:6429,0.57
+
+CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 少儿,#genre#
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
